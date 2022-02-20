@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Stef, web-developer in development!
+________________________________________________________
+
+
+I study at ArteveldeHogeschool, and programming is what im best at!
 ________________________________________________________
 
 - 🌱 I’m currently learning   :	<br> <br>
