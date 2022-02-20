@@ -5,6 +5,10 @@ ________________________________________________________
 
 ________________________________________________________
 
-- 💬 Connect with me on  ...
--> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/stef-de-boeck-22a802221/
+- 💬 Connect with me on :
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/stef-de-boeck-22a802221/
 
+________________________________________________________
+
+My Github Stats:
+[![Stef's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-stefdebo3)](https://github.com/anuraghazra/github-readme-stats)
