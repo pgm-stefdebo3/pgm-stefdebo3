@@ -10,5 +10,5 @@ ________________________________________________________
 
 ________________________________________________________
 
-My Github Stats:
-[![Stef's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-stefdebo3)](https://github.com/anuraghazra/github-readme-stats)
+- My Github Stats:
+- [![Stef's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-stefdebo3)](https://github.com/anuraghazra/github-readme-stats)
