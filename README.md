@@ -3,9 +3,9 @@ ________________________________________________________
 
 - 🌱 I’m currently learning   	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ,   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   and   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
--![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
--![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=F7DF1E)
--![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=F7DF1E)
+-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=E34F26)
+-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=323330)
+-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=1572B6)
 ________________________________________________________
 
 - 💬 Connect with me on :
