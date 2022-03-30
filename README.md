@@ -14,7 +14,7 @@ ________________________________________________________
 
 - 💬 Connect with me on : <br> <br>
 <a href="https://www.linkedin.com/in/stef-de-boeck-22a802221/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <br>
-<a href="https://www.instagram.com/stef_dbk/"> ![Instagram](https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+<a href="https://www.instagram.com/stef_dbk/"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 
 ________________________________________________________
 
