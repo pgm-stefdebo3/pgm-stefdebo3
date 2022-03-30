@@ -20,7 +20,6 @@ ________________________________________________________
 
 - 📈 My Github Stats: <br> <br>
 [![Stef's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-stefdebo3)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-stefdebo3&layout=compact)](https://github.com/pgm-stefdebo3)
 
 
 
