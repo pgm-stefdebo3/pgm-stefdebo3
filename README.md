@@ -16,7 +16,7 @@ ________________________________________________________
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=61DAFB)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&color=#378d37)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&color=417b41)
 ![](https://img.shields.io/badge/Code-Cypress-informational?style=flat&logo=Cypress&color=64bc98)
 ![](https://img.shields.io/badge/Code-Jest-informational?style=flat&logo=Jest&color=bd3e15)
 ![](https://img.shields.io/badge/Code-CraftCMS-informational?style=flat&logo=CraftCMS&color=e5422b)
