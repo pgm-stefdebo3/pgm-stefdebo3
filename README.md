@@ -6,16 +6,16 @@ I study at ArteveldeHogeschool, and always love to learn new technology.
 ________________________________________________________
 
 - 🌱 I’m currently learning   :	<br> <br>
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)<br>
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=61DAFB)<br>
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=#007ACC)<br>
 
 ________________________________________________________
 
 - 📚 I’m adept at   :	<br> <br>
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=323330)<br>
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)<br>
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)<br>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=323330)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=61DAFB)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=#007ACC)
 
 ________________________________________________________
 
